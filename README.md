@@ -1,7 +1,7 @@
 # host-agent-release
 The public release of the Randoli Host Agent
 
-For more information please read the [documentaiton](https://docs.randoli.io/agent/host-agent
+For more information please read the [documentaiton](https://docs.randoli.io/agent/host-agent)
 
 |Operating System | Installation File    |
 |-----------------|----------------------|
